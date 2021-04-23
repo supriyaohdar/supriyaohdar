@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @supriyaohdar
+- 👋 Hi, I’m Supriya Ohdar
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking for  ML Internships
