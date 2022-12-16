@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Supriya Ohdar
-- 👀 I’m interested in Machine Learning
+- 👋 Hi, I’m Supriya Kumari
+- 👀 I’m interested in Machine Learning & Data analysis
 - 🌱 I’m currently learning NLP
-- 💞️ I’m looking for  ML Internships
-- 📫 How to reach me https://www.linkedin.com/in/supriya-ohdar-39369918b/
+- 📫 How to reach me https://www.linkedin.com/in/supriya-kumari-39369918b/
 
 <!---
 supriyaohdar/supriyaohdar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
